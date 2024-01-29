@@ -3,14 +3,14 @@
 
 **sevdacacan/sevdacacan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🚀 HTML, CSS ve JavaScript konularında güçlü bilgi ve deneyim.
+- 📱 React Native ile mobil uygulama geliştirme konusunda yetenekli.
+- 🎓 [Eğitim Bilgisi] Lisans/Doktora, [Üniversite Adı], [Mezuniyet Yılı]
+- 💼 Şu anda [Çalıştığınız Şirket/Proje], [Pozisyonunuz]
 
-- 🔭 I’m currently working on frontend
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Yeteneklerim
 
+- 💻 HTML5, CSS3, JavaScript ve modern web teknolojilerine hakim.
+- ⚛️ React ve React Native ile güçlü bilgi ve deneyim.
+- 🌐 Responsive web tasarımı ve cross-browser uyumluluğu.
+- 📱 Mobil uygulama geliştirmede React Native kullanımı.
